@@ -31,3 +31,6 @@ To run the notebook and fine-tune the ViT model on the music genre classificatio
 
 3. Open and run the `Vit_Genre_Classification.ipynb` Jupyter notebook. Follow the step-by-step instructions provided in the notebook for fine-tuning the ViT model on the egtzan_plus dataset.
 
+## Model
+
+Model finetuned on [huggingface](https://huggingface.co/ghermoso/vit-eGTZANplus)
